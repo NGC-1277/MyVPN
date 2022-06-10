@@ -1,0 +1,15 @@
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\bin\Debug\net6.0\SummerIntership.exe
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\bin\Debug\net6.0\SummerIntership.deps.json
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\bin\Debug\net6.0\SummerIntership.runtimeconfig.json
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\bin\Debug\net6.0\SummerIntership.dll
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\bin\Debug\net6.0\SummerIntership.pdb
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\SummerIntership.csproj.AssemblyReference.cache
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\SummerIntership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\SummerIntership.AssemblyInfoInputs.cache
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\SummerIntership.AssemblyInfo.cs
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\SummerIntership.csproj.CoreCompileInputs.cache
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\SummerIntership.dll
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\refint\SummerIntership.dll
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\SummerIntership.pdb
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\SummerIntership.genruntimeconfig.cache
+C:\Users\rusta\source\repos\SummerIntership\SummerIntership\obj\Debug\net6.0\ref\SummerIntership.dll
